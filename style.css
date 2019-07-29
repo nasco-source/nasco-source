@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background:rgb(7, 224, 7);
+    color: whitesmoke;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.container {
+    margin: auto;
+    width:700px;
+    height: 800px;
+    overflow: hidden;
+}
+
+.nasco {
+    background: black;
+    text-align: center;
+    margin: 100px;
+    height: 100px;
+}
+
+.gold {
+    color: gold;
+}
+
+h1 {
+    margin-bottom: 20px;
+    letter-spacing: 0.3em;
+}
+
+p {
+    margin-top: 20px;
+}
